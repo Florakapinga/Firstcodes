@@ -9,6 +9,6 @@ int main()
     std::cin >> age;
 
     std::cout << "hellow " << name;
-    std::cout << "you are too young to start relationship" << age;
+    std::cout << "you are adult" << age;
     return 0;
 }
